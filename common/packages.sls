@@ -4,4 +4,4 @@ common_packages:
       - htop
       - strace
       - vim
-      - emacs-nox
+      - mosh
