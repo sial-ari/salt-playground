@@ -1,2 +1,2 @@
 # salt-playground
-Salt Playgtound
+Salt Playground
